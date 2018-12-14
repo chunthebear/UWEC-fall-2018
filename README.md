@@ -1,4 +1,5 @@
-# UVic Engineering Competition Fall 2018, Programming categary
+# UVic Engineering Competition Fall 2018
+## Programming categary
 
   A proposal has been made looking for a proprietary communication platform for a company:
 
